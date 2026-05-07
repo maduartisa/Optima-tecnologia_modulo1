@@ -118,12 +118,11 @@ if menu == "Criar":
             cep = st.text_input("CEP")
             cidade = st.text_input("Cidade")
             estado = st.text_input("Estado")
-
             nacionalidade = st.text_input("Nacionalidade")
             naturalidade = st.text_input("Naturalidade")
-            foto = st.text_input("URL da Foto")
-
-        st.markdown("---")
+            uf = st.text_input("UF")
+            
+                st.markdown("---")
 
         # =========================
         # TIPO DE USUÁRIO
@@ -214,7 +213,7 @@ if menu == "Criar":
                     str(uuid4()), nome, cpf, data_nasc,
                     naturalidade, nacionalidade,
                     nome_social, sexo, endereco, cep, cidade, estado,
-                    telefone, tipo_usuario, email, foto
+                    telefone, tipo_usuario, email, uf
                 )
 
                 user_dict = usuario.to_dict()
