@@ -1,0 +1,31 @@
+{
+    "administradores": [
+        {
+            "id": 1,
+            "nome": "Administrador",
+            "email": "admin@cnak.com",
+            "senha_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+            "perfil": "super",
+            "ativo": true,
+            "created_at": "2026-05-07T00:29:28.868031Z",
+            "logs": []
+        }
+    ],
+    "usuarios": [],
+    "equipamentos": [],
+    "sistemas": [],
+    "acessos": [],
+    "auditoria": [
+        {
+            "id": 1,
+            "evento": "CREATE",
+            "entidade": "administrador",
+            "entidade_id": 1,
+            "usuario_id": null,
+            "detalhe": {
+                "nome": "Administrador"
+            },
+            "timestamp": "2026-05-07T00:29:28.883588Z"
+        }
+    ]
+}
