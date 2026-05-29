@@ -1,0 +1,32 @@
+[2026-05-25 19:38:40] Sistema Iniciado
+[2026-05-25 19:39:11] Sistema Iniciado
+[2026-05-25 19:41:12] Sistema Iniciado
+[2026-05-25 19:42:32] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:32:10] Arquivo copiado de C:\Users\Miranda\Projeto-Optima-Tecnologia_modulo 1\Optima-tecnologia_modulo1\auditoria.txt para C:\Users\Miranda\Desktop\Nova pasta com criptografia. Hash gerado: 47744b45b540bb571c6057d9324d7f60e1e3aebb57cce1441e46d81c97d424a1.
+[2026-05-25 20:36:19] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:20] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:20] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:21] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:21] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:21] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:21] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:22] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:22] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:22] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:23] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:23] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:23] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:24] O arquivo auditoria.txt foi visualizado.
+[2026-05-25 20:36:24] O arquivo auditoria.txt foi visualizado.
+[2026-05-27 20:51:13] Sistema Iniciado
+[2026-05-27 20:58:52] Sistema Iniciado
+[2026-05-27 21:00:57] Sistema Iniciado
+[2026-05-27 21:01:12] Sistema Iniciado
+[2026-05-28 19:33:00] Sistema Iniciado
+[2026-05-28 19:33:38] O arquivo codigo1.txt foi visualizado.
+[2026-05-28 19:34:06] Arquivo copiado de C:\Users\Miranda\Desktop\codigo1.txt para C:\Users\Miranda\OneDrive\Apps\teste com criptografia. Hash gerado: 73da94501178ce87162ea2590c799e8d71dd5d8c1b84128d8c0bf9c66a4ca7be.
+[2026-05-28 19:34:15] Arquivo copiado de C:\Users\Miranda\Desktop\codigo1.txt para C:\Users\Miranda\OneDrive\Apps\teste com criptografia. Hash gerado: 73da94501178ce87162ea2590c799e8d71dd5d8c1b84128d8c0bf9c66a4ca7be.
+[2026-05-28 19:50:29] Sistema Iniciado
+[2026-05-28 19:52:52] O arquivo codigo1.txt.sha256.txt foi visualizado.
+[2026-05-28 19:52:58] O arquivo codigo1.txt.sha256.txt foi visualizado.
+[2026-05-28 19:53:22] Sistema Iniciado

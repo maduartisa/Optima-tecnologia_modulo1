@@ -122,7 +122,7 @@ if menu == "Criar":
             naturalidade = st.text_input("Naturalidade")
             uf = st.text_input("UF")
             
-                st.markdown("---")
+            st.markdown("---")
 
         # =========================
         # TIPO DE USUÁRIO

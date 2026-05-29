@@ -1,0 +1,52 @@
+/empresa-gestao-sistema
+│
+├── frontend
+│   ├── dashboard
+│   │   ├── visao-geral
+│   │   ├── relatorios-graficos
+│   │   ├── kpis-desempenho
+│   │   └── alertas
+│   │
+│   └── controle-acesso
+│       ├── autenticacao
+│       │   ├── login
+│       │   ├── mfa
+│       │   └── jwt
+│       ├── autorizacao
+│       │   ├── rbac
+│       │   ├── permissoes
+│       │   └── papeis-usuario
+│       └── gestao-usuarios
+│           ├── crud-usuarios
+│           ├── grupos
+│           └── ativacao
+│
+├── auditoria
+│   ├── logs-atividades
+│   ├── logs-data-hora
+│   └── logs-configuracoes
+│
+├── recursos-humanos
+│   ├── registros-colaboradores
+│   ├── gestao-talentos
+│   └── processos-rh
+│
+├── gestao-visitacao
+│   ├── agendamento-visitas
+│   ├── registro-visitantes
+│   └── relatorios-visitas
+│
+├── relatorios-analytics
+│   └── tipos-relatorios
+│
+└── backend
+    ├── banco-dados
+    │   ├── sql
+    │   └── nosql
+    ├── servico-autenticacao-identidade
+    ├── auditoria
+    └── usuarios
+        ├── administrador-sistema
+        ├── colaboradores
+        ├── gestores
+        └── visitantes
